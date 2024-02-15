@@ -12,7 +12,7 @@
 ---  
 ### 👋소개  
 <p align="center">
- <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/68306584-5c07-4c63-97ef-b814485c3632" height="500px", width="1500px">
+ <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/68306584-5c07-4c63-97ef-b814485c3632" height="400px", width="1200px">
 </p>  
   
 **개발 인원** :*<span style = "color:gray">5명</span>*  
@@ -39,4 +39,21 @@
   <summary>요구사항 분석</summary>
   <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/eb5a6c5e-c90e-483b-a23b-cb6d4eeb7f20"><br>
  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/70dba641-3090-4b50-8338-ef3078d01a9d">
+</details>  
+1. **메이커 페이지**
+2. **판매 상품(프로젝트) 등록/수정/삭제**
+3. **판매 공지사항 게시판(새소식) CRUD**
+4. **고객 문의 사항**  
+
+**개별 소스**  
+<details>
+  <summary>VO</summary>
+  <ul>
+      <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/FundVO.java">FundVO</a></li>
+      <li>CSS</li>
+      <li>JAVASCRIPT</li>
+      <li>JAVA</li>
+      <li>JSP</li>
+      <li>ORACLE</li>
+  </ul>
 </details> 
