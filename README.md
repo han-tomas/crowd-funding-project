@@ -95,8 +95,8 @@
 
 <details>
   <summary>View</summary>
- <ul>
-  <li style = "list-style-type: none">
+ <ul list-style-type: none>
+  <li>
    <details>
     <summary>메이커페이지</summary>
     <ul>
