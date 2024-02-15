@@ -1,5 +1,7 @@
-## '같이펀딩' 팀 프로젝트  
-![crowd-logo](https://github.com/http-kjs/SecondProject/assets/124488773/eb762893-79fd-4569-bbf5-2f0108d33c6f)
+<p align="center">
+ <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/eb762893-79fd-4569-bbf5-2f0108d33c6f">
+</p>
+  
 ## 목차  
   
 1. [소개](#소개)
