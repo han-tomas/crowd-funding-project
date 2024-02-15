@@ -11,7 +11,7 @@
 2. [개발 목표](#개발-목표)
 3. [모델링 ERD & 플로우차트](#모델링-erd--플로우차트)
 4. [담당 역할](#담당-역할)
-5. [개별 소스](#개별-소스)
+5. [구현 코드](#구현-코드)
 
 ---  
 ### 👋소개  
@@ -51,29 +51,29 @@
 4. **고객 문의 사항**  
 
 ---  
-### 👨‍💻개별 소스  
+### 👨‍💻구현 코드  
 
 <details>
   <summary>VO</summary>
   <ul>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/FundVO.java">FundVO</a>: 펀딩 상품 등록 관련</li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/RewardVO.java">RewardVO</a>: 펀딩 상품 옵션 관련</li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/StoreVO.java">StoreVO</a>: 스토어 상품 관련</li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/StoreRewardVO.java">StoreRewarVO</a>: 스토어 상품 옵션 관련</li>
-      <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/NewsVO.java">NewsVO</a>: 새소식 관련</li>
-  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/PageVO.java">PageVO</a>: 페이지네이션 관련</li>
-  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/QnAVO.java">QnAVO</a>: 고객 문의사항 관련</li>
-  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/ReplyVO.java">ReplyVO</a>: 문의 답변</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/FundVO.java">FundVO</a> : 펀딩 상품 등록 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/RewardVO.java">RewardVO</a> : 펀딩 상품 옵션 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/StoreVO.java">StoreVO</a> : 스토어 상품 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/StoreRewardVO.java">StoreRewarVO</a> : 스토어 상품 옵션 관련</li>
+      <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/NewsVO.java">NewsVO</a> : 새소식 관련</li>
+  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/PageVO.java">PageVO</a> : 페이지네이션 관련</li>
+  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/QnAVO.java">QnAVO</a> : 고객 문의사항 관련</li>
+  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/ReplyVO.java">ReplyVO</a> : 문의 답변</li>
  </ul>
  
 </details> 
 <details>
   <summary>DAO</summary>
   <ul>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/FundDAO.java">FundDAO</a>: 메이커 관련</li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/StoreDAO.java">StoreDAO</a>: 스토어 관련</li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/QnADAO.java">QnADAO</a>: 고객문의</li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/ReplyDAO.java">ReplyDAO</a>: 문의 답변</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/FundDAO.java">FundDAO</a> : 메이커 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/StoreDAO.java">StoreDAO</a> : 스토어 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/QnADAO.java">QnADAO</a> : 고객문의</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/ReplyDAO.java">ReplyDAO</a> : 문의 답변</li>
  </ul> 
 </details> 
 <details>
@@ -89,11 +89,11 @@
   <summary>Mapper</summary>
   <ul>
    <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/FundMapper.java">FundMapper</a></li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/fund-mapper.xml">fund-mapper</a>:MyBatis 이용</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/fund-mapper.xml">fund-mapper</a> : MyBatis 이용</li>
    <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/StoreMapper.java">StoreMapper</a></li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/store-mapper.xml">store-mapper</a>:MyBatis 이용</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/store-mapper.xml">store-mapper</a> : MyBatis 이용</li>
    <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/QnAMapper.java">QnAMapper</a></li>
-   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/qna-mapper.xml">qna-mapper</a>:MyBatis 이용</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/qna-mapper.xml">qna-mapper</a> : MyBatis 이용</li>
    <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/mapper/ReplyMapper.java">ReplyMapper</a></li>
  </ul> 
   
@@ -109,8 +109,8 @@
 <details>
   <summary>View</summary>
   <ul>
-   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/makerpage">메이커 페이지</a></li>
-   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/store">스토어 페이지</a></li>
-   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/fund">펀딩 상품 상세</a></li>
+   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/makerpage">makerpage</a></li>
+   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/store">store</a></li>
+   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/fund">fund</a></li>
   </ul>  
 </details> 
