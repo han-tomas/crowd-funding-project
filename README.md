@@ -94,7 +94,11 @@
 </details> 
 <details>
  <summary>task(Scheduling)</summary>
- <a href ="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/task/ScheduledTask.java">ScheduledTask.java</a>
+ <ul>
+   <li>
+      <a href ="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/task/ScheduledTask.java">ScheduledTask.java</a>
+   </li>
+ </ul> 
 </details>
 <details>
   <summary>View</summary>
