@@ -1,8 +1,11 @@
+## '같이펀딩' 팀 프로젝트  
+![crowd-logo2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8e79a0d-8a1c-4a4e-b434-7e2bf429f2a6/2a542115-6b14-4919-8f54-c2431af71a76/crowd-logo2.png)
+
 ## 목차  
   
 1. [소개](#소개)
 2. [개발 목표](#개발-목표)
-3. [모델링 ERD & 플로우차트](#모델링-ERD-&-플로우차트)
+3. [모델링 ERD & 플로우차트](#모델링-erd--플로우차트)
 4. [담당 역할]()
 5. [주요 기능]()
 6. [ERD]()
@@ -12,6 +15,7 @@
 <br>
 
 ### 소개  
+**인원** :*<span style = "color:gray">5명</span>*
 **개발 기간** :*<span style = "color:gray">2023 / 07 / 31 ~ 2023 / 08 / 29</span>*  
 <br>
 사용자들이 메이커가 되어 다양한 카테고리의 상품을 직접 등록하고, 다른 사용자들에 의해 펀딩 금액이 메이커가 설정한 만족도를 달성하면 상품 판매가 이루어지는 서비스를 구현한 프로젝트입니다.  
@@ -25,7 +29,7 @@
 </details>  
 <details>
   <summary>플로우차트 보기</summary>
-  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/79c97eb9-af66-4fe0-baf8-5476e293b576">
+  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/df3cf033-13ef-4e5a-92e1-874f5a75d1c7">
 </details>
 
 ### 개발 기간
