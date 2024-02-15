@@ -18,9 +18,7 @@
 
 ---  
 ### 모델링 ERD & 플로우차트
-<details><summary>모델링 ERD 보기</summary>
-![같이펀딩ERD](https://github.com/http-kjs/SecondProject/assets/124488773/5698c01e-7663-432e-b192-ec09eb23ed2e)
-</details>
+<details><summary>모델링 ERD 보기</summary>![같이펀딩ERD](https://github.com/http-kjs/SecondProject/assets/124488773/5698c01e-7663-432e-b192-ec09eb23ed2e)</details>
 
 ### 개발 기간
 .
