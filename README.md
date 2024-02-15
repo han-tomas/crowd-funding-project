@@ -7,6 +7,7 @@
 5. [주요 기능]()
 6. [ERD]()
 
+---  
 <br>
 <br>
 
@@ -21,6 +22,10 @@
 <details>
   <summary>모델링 ERD 보기</summary>
   <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/5698c01e-7663-432e-b192-ec09eb23ed2e">
+</details>  
+<details>
+  <summary>플로우차트 보기</summary>
+  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/79c97eb9-af66-4fe0-baf8-5476e293b576">
 </details>
 
 ### 개발 기간
