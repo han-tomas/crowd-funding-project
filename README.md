@@ -75,7 +75,7 @@
   <ul>
    <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/MakerpageController.java">MakerpageController</a></li>
    <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/MakerpageRestController.java">MakerpageRestController</a></li>
-   <li><a href="[https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/QnADAO.java](https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/StoreController.java)">StoreController</a></li>
-   <li><a href="[https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/dao/ReplyDAO.java](https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/MakerpageController.java)https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/StoreRestController.java">StoreRestController</a></li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/StoreController.java">StoreController</a></li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/web/StoreRestController.java">StoreRestController</a></li>
  </ul> 
 </details> 
