@@ -92,19 +92,15 @@
  </ul> 
   
 </details> 
-
+<details>
+ <summary>task(Scheduling)</summary>
+ <a href ="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/task/ScheduledTask.java"></a>
+</details>
 <details>
   <summary>View</summary>
- <ul style ="list-style-type: none">
-  <li>
-   <details>
-    <summary>메이커페이지</summary>
-    <ul>
-     <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/webapp/WEB-INF/makerpage/fund_insert.jsp">fund_insert.jsp</a></li>
-    </ul>
-  </details> 
-  </li>
- </ul>
-  
-
+  <ul>
+   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/makerpage">메이커 페이지</a></li>
+   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/store">스토어 페이지</a></li>
+   <li><a href ="https://github.com/han-tomas/crowd-funding-project/tree/master/CrowdProject/src/main/webapp/WEB-INF/fund">펀딩 상품 상세</a></li>
+  </ul>  
 </details> 
