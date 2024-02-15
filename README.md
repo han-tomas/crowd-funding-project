@@ -1,8 +1,10 @@
 <p align="center">
  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/eb762893-79fd-4569-bbf5-2f0108d33c6f">
 </p>
-
-['같이 펀딩' 포트폴리오 바로가기](https://ten-pond-80a.notion.site/ff46870bf6d54c4f888509d44df234d2?pvs=4)  
+<p align="right">
+ <a href="https://ten-pond-80a.notion.site/ff46870bf6d54c4f888509d44df234d2?pvs=4">'같이 펀딩' 포트폴리오 바로가기</a>
+</p>
+  
 ## 📚목차  
   
 1. [소개](#소개)
