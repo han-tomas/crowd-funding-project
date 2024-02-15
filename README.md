@@ -95,11 +95,16 @@
 
 <details>
   <summary>View</summary>
-  &nbsp;&nbsp;<details>
+ <ul>
+  <li>
+   <details>
     <summary>메이커페이지</summary>
     <ul>
      <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/webapp/WEB-INF/makerpage/fund_insert.jsp">fund_insert.jsp</a></li>
     </ul>
   </details> 
+  </li>
+ </ul>
+  
 
 </details> 
