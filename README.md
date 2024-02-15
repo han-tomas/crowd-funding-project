@@ -15,12 +15,12 @@
  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/68306584-5c07-4c63-97ef-b814485c3632" height="400px", width="1200px">
 </p>  
   
-**개발 인원** :*<span style = "color:gray">5명</span>*  
-**개발 기간** :*<span style = "color:gray">2023 / 07 / 31 ~ 2023 / 08 / 29</span>*  
+**개발 인원 :** *<span style = "color:gray">5명</span>*  
+**개발 기간 :** *<span style = "color:gray">2023 / 07 / 31 ~ 2023 / 08 / 29</span>*  
 <br>
 **사용자들이 메이커가 되어 다양한 카테고리의 상품을 직접 등록하고, 다른 사용자들에 의해 펀딩 금액이 메이커가 설정한 만족도를 달성하면 상품 판매가 이루어지는 서비스를 구현한 프로젝트입니다.**  
 <br>
-['같이펀딩' 포트폴리오 이동](https://ten-pond-80a.notion.site/ff46870bf6d54c4f888509d44df234d2?pvs=4)
+**상세 설명 :** ['같이펀딩' 포트폴리오로 이동](https://ten-pond-80a.notion.site/ff46870bf6d54c4f888509d44df234d2?pvs=4)
 
 ---  
 ### 📃모델링 ERD & 플로우차트
@@ -40,20 +40,24 @@
   <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/eb5a6c5e-c90e-483b-a23b-cb6d4eeb7f20"><br>
  <img src = "https://github.com/http-kjs/SecondProject/assets/124488773/70dba641-3090-4b50-8338-ef3078d01a9d">
 </details>  
+  
 1. **메이커 페이지**
 2. **판매 상품(프로젝트) 등록/수정/삭제**
 3. **판매 공지사항 게시판(새소식) CRUD**
 4. **고객 문의 사항**  
-
+  
 **개별 소스**  
 <details>
   <summary>VO</summary>
   <ul>
-      <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/FundVO.java">FundVO</a></li>
-      <li>CSS</li>
-      <li>JAVASCRIPT</li>
-      <li>JAVA</li>
-      <li>JSP</li>
-      <li>ORACLE</li>
-  </ul>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/FundVO.java">FundVO</a>: 펀딩 상품 등록 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/RewardVO.java">RewardVO</a>: 펀딩 상품 옵션 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/StoreVO.java">StoreVO</a>: 스토어 상품 관련</li>
+   <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/StoreRewardVO.java">StoreRewarVO</a>: 스토어 상품 옵션 관련</li>
+      <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/NewsVO.java">NewsVO</a>: 새소식 관련</li>
+  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/PageVO.java">PageVO</a>: 페이지네이션 관련</li>
+  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/QnAVO.java">QnAVO</a>: 고객 문의사항 관련</li>
+  <li><a href="https://github.com/han-tomas/crowd-funding-project/blob/master/CrowdProject/src/main/java/com/sist/vo/ReplyVO.java">ReplyVO</a>: 문의 답변</li>
+ </ul>
+ 
 </details> 
