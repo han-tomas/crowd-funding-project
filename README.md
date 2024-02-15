@@ -1,4 +1,4 @@
-![같이펀딩ERD](https://github.com/han-tomas/crowd-funding-project/assets/124488773/a0f2ca6f-4207-4f9e-8629-6710d2f3567a)## 목차  
+## 목차  
   
 1. [소개](#소개)
 2. [개발 목표](#개발-목표)
@@ -18,7 +18,7 @@
 
 ---  
 ### 모델링 ERD & 플로우차트
-<details><summary>모델링 ERD 보기</summary>![같이펀딩ERD](https://github.com/http-kjs/SecondProject/assets/124488773/5698c01e-7663-432e-b192-ec09eb23ed2e)</details>
+<details><summary>모델링 ERD 보기</summary><br> ![같이펀딩ERD](https://github.com/http-kjs/SecondProject/assets/124488773/5698c01e-7663-432e-b192-ec09eb23ed2e)</details>
 
 ### 개발 기간
 .
